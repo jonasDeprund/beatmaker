@@ -115,3 +115,7 @@ select {
     transform: scale(1.2);
   }
 }
+
+.mute.active {
+  background-color: gray;
+}
